@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Private Perpetual Futures Trading on Solana with Arcium Confidential Computing",
   "private": true,
+  "homepage": "https://jacksonx28.github.io/private-perps",
   "dependencies": {
     "@coral-xyz/anchor": "^0.29.0",
     "@solana/wallet-adapter-base": "^0.9.23",
